@@ -1,0 +1,7 @@
+Create a dashboard using the "Sample - Superstore" dataset. Your dashboard should include:
+
+- Four sheets
+- Selected one-sheet as "Use as Filter" (optional)
+- Different color rather than the default color 
+
+Please put the Tableau Public cloud link of your dashboard and submit your assignment.
